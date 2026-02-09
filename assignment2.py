@@ -3,4 +3,4 @@
 planets = ("Earth", "Jupiter", "Venus", "Mercury", "Saturn", "Mars", "Neptune", "Uranus")
 print(planets)
 
-print(planets[2:6])
+print(planets[2:7])

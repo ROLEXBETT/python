@@ -1,5 +1,5 @@
 # Python list
-# a list in python, iks a collection of items that ae ordered in a certain way
+# a list in python, is a collection of items that are ordered in a certain way
 # a list is introduced by the use of square brackets []
 # the items of a list are stored inside of indexes NB . in programing we start counting from index zero (0) . bmw, benze, hiance, ...
 # a list is mutable i.e the content of a list can be changed.

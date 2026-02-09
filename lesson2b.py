@@ -1,5 +1,5 @@
 #  TUPLE
-# a tuple is an imutable
+# a tuple is an imutable npart of a list
 # to introduce a tuple, we use the paranthesis ()
 
 counties = ("Nairobi", "Mombasa", "Nakuru", "Eldoret", "Kajiado", "Kisii")
