@@ -3,11 +3,10 @@
 # Use the same function inside of a loop to calculate two other simple interests. Note use your own principal, rate and time.
 
 
- 
-def simpleinterest(SI):
+def simple_interest(SI):
     P = 45000
     R = 7
     T = 8
-    SI = (P * R * T)/100
-    print("The product is:", SI)
-print("SI")
+    si = (P * R * T)/100
+    print(f"The simple interest is{si}")
+print("simple_interest")
