@@ -1,5 +1,5 @@
 # Functions with parameters
-# Parameters: they are values that get past as arguments given to a function inside of tghe parenthisis
+# Parameters: they are values that get past as arguments given to a function inside of the parenthisis
 
 def greeting(name):
     print(f"{name}, How are you? Hope everything is fine.")
@@ -15,5 +15,5 @@ message("Rolex")
 # Create function that accepts parameters to add two numbers
 def addition(x,y):
     sum = x + y
-    print("The sum of the numbers is: ", sum)
+    print(f"The sum of the numbers is: ", sum)
 print(addition)
